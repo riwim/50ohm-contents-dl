@@ -36,13 +36,13 @@ def build_drawing(id):
             file.write(f"\\documentclass{{FiftyOhm}}\\DARCimageOnly{{9cm}}{{{id}include}}")
 
         # Symlink photos, so LaTeX can access these assets to render into graphics.
-        photos_path = pathlib.Path("contents/photos")
+        photos_path = pathlib.Path("../contents/photos")
+
         foto_link = build_path / "foto"
+        foto_link.symlink_to(photos_path)
+
         foto_link2 = build_path / "img/foto"
-        if not foto_link.is_symlink():
-            foto_link.symlink_to(photos_path)
-        if not foto_link2.is_symlink():
-            foto_link2.symlink_to(photos_path)
+        foto_link2.symlink_to(photos_path)
 
         # Build the picture:
         os.system(f"latexmk -lualatex {aux_file}")
