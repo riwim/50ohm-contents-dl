@@ -6,7 +6,7 @@
 * Dioden werden u.a. zur Gleichrichtung von Wechselspannung eingesetzt
 </left>
 <right>
-[photo:6:e_led:Diverse LED in verschiedenen Bauformen und Farben]
+[picture:689:e_led:Diverse LED in verschiedenen Bauformen und Farben]
 </right>
 <note>
 * Eine spezielle Bauform haben wir schon als LED kennengelernt
