@@ -1,5 +1,5 @@
 <left>
-[photo:57:n_ausbildungsrufzeichen_ausbildungsfunkbetrieb:Ausbildungsfunkbetrieb verbindet oft die Generationen]
+TODO Neues Bild
 </left>
 <right>
 * Funkamateure der Klasse E und A sind automatisch Ausbilder
