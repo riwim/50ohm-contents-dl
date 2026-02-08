@@ -122,8 +122,8 @@ Wenig Restatmosphäre, weshalb die Elektronen lange brauchen, um ein Ion zur Rek
 [question:EH107]
 
 ---
-* Während dieser Zeit können alle oberen Kurzwellenbänder und teilweise sogar das 6-Meter-Band für DX-Verbindungen genutzt werden
-* Im Aktivitätsminimum sind die Frequenzbänder oberhalb des 20-Meter-Bandes (z. B. $\qty{10}{\meter}$) meist nicht nutzbar
+* Während dieser Zeit können alle oberen Kurzwellenbänder und teilweise sogar das $\qty{6}{\meter}$-Band für DX-Verbindungen genutzt werden
+* Im Aktivitätsminimum sind die Frequenzbänder oberhalb des $\qty{20}{\meter}$-Bandes (z. B. $\qty{10}{\meter}$) meist nicht nutzbar
 
 ---
 [question:EH205]
