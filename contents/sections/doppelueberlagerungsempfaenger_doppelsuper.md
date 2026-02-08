@@ -36,7 +36,7 @@ Um die benötigten Oszillator-Frequenzen in Abhängigkeit einer gewünschten Emp
 1. Oszillatorfrequenz = Eingangsfrequenz + Ausgangsfrequenz
 2. Oszillatorfrequenz = Eingangsfrequenz - Ausgangsfrequenz
 
-Mit diese Wissen lassen sich die folgenden Fragen beantworten.
+Mit diesem Wissen lassen sich die folgenden Fragen beantworten.
 
 [question:AF120]
 [question:AF118]
