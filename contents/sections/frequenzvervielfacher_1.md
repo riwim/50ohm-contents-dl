@@ -5,7 +5,7 @@ Um früher in Amateurfunk-Mehrbandsendern nicht für jeden Frequenzbereich einze
 Abbildung [ref:n_f_vervielfacher] zeigt das Blockschaltbild eines Frequenzvervielfachers mit dem Faktor 2 bei dem die Eingangsfrequenz von $\qty{3,5}{\mega\hertz}$ auf $\qty{7}{\mega\hertz}$ angehoben wird. Ein Frequenzvervielfacher wird dabei typischerweise durch eine Nichtlinearität (z. B. Diode) erzeugt, die gezielt Oberwellen des Eingangssignals erzeugt, aus denen anschließend mit einem Bandpassfilter die gewünschte Vielfachfrequenz ausgewählt wird.
 
 <margin>
-[picture:1043:n_f_vervielfacher:Blockschaltbild eines Frequenzvervielfachers]
+[picture:1042:n_f_vervielfacher:Blockschaltbild eines Frequenzvervielfachers]
 </margin>
 
 Häufig verwendet man eine Kette von Frequenzvervielfachern, um die gewünschten Multiplikationsfaktoren zu erreichen. Hierbei werden bei Reihenschaltung von Vervielfachern die einzelnen Faktoren miteinander multipliziert.
