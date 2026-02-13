@@ -16,7 +16,7 @@
 ## Kritische Frequenz
 
 <left>
-* Bei 90° Abstrahlwinkel muss das Signal in der Ionosphäre eine 180°-Wendung vollziehen
+* Bei $\qty{90}{\degree}$ Abstrahlwinkel muss das Signal in der Ionosphäre eine $\qty{180}{\degree}$-Wendung vollziehen
 * Kritische Frequenz $f_c$ bei der das Signal reflektiert wird
 * MUF ist größer als $f_c$, da in der Regel nicht senkrecht nach oben gesendet wird
 </left>
@@ -47,7 +47,7 @@ Kritische Frequenz wird auch als $f_k$ oder $f_\mathrm{krit}$ angegeben
 ---
 ### Lösungsweg
 <left>
-* gegeben: $\alpha = 45\degree$
+* gegeben: $\alpha = \qty{45}{\degree}$
 * gegeben: $f_c = 3MHz$
 </left>
 <right>
@@ -84,7 +84,7 @@ Niedrigste Frequenz mit der eine Verbindung über die Raumwelle hergestellt werd
 Wiederholung
 </left>
 <right>
-* Bei 90° Abstrahlwinkel muss das Signal in der Ionosphäre eine 180°-Wendung vollziehen
+* Bei $\qty{90}{\degree}$ Abstrahlwinkel muss das Signal in der Ionosphäre eine $\qty{180}{\degree}$-Wendung vollziehen
 * Kritische Frequenz $f_c$ bei der das Signal reflektiert wird
 * MUF liegt höher als $f_c$, da in der Regel nicht senkrecht nach oben gesendet wird
 </right>

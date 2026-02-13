@@ -1,4 +1,4 @@
-Wir haben [edition:N:am Anfang des Kurses] bereits die elektrische Spannung kennengelernt. Fassen wir nochmal zusammen: Trennt man gezielt positive von negativen Ladungen, z. B. in einer Batterie, dann versuchen diese Ladungen wieder zusammenzukommen. Es liegt eine elektrische Spannung vor, z. B. zwischen den Polen der Batterie. Gemessen wird die elektrische Spannung in der Einheit Volt, die mit V abgekürzt wird.
+Wir haben bereits die elektrische Spannung kennengelernt. Fassen wir nochmal zusammen: Trennt man gezielt positive von negativen Ladungen, z. B. in einer Batterie, dann versuchen diese Ladungen wieder zusammenzukommen. Es liegt eine elektrische Spannung vor, z. B. zwischen den Polen der Batterie. Gemessen wird die elektrische Spannung in der Einheit Volt, die mit V abgekürzt wird.
 
 <person>
 Die Einheit Volt ist nach dem italienischen Physiker *Alessandro Volta* benannt.
@@ -31,7 +31,7 @@ In der Funktechnik kommen sowohl sehr große als auch sehr kleine Spannungen vor
 Es gibt aber auch Einheitenvorzeichen für sehr kleine Werte. Wir kennen das beispielsweise vom Milliliter (ml): 1 Liter sind 1000 ml. Die wichtigsten Einheitenvorzeichen werden in der Tabelle [ref:n_spannung_einheitenvorzeichen_2] anhand der Einheit Volt vorgestellt. 1 mV ist beispielsweise dasselbe wie 0,001 V. Umgekehrt entsprechen 1000 mV genau 1 V.
 
 <webmargin>
-| l: Spannungsquelle | r | c | l |
+| l: Spannungsquelle | r: | c: | l: |
 | Empfängereingang | 10 μV | = | 0,00001 V |
 | Mikrofon | 200 mV | = | 0,2 V |
 | Batterie | 1,5 V | = | 1,5 V |

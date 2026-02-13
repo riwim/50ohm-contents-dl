@@ -1,6 +1,6 @@
 ### Spannungsquelle
 <left>
-[photo:182:a_vsource_schematic:Ersatzschaltbild Spannungsquelle]
+[picture:1018:a_vsource_schematic:Ersatzschaltbild Spannungsquelle]
 </left>
 <right>
 * Reale Spannungsquelle wird mit $R_L$ belastet &rarr; Klemmenspannung $U_k$ sinkt

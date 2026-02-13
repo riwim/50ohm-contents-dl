@@ -1,6 +1,6 @@
 Ein gutes Labornetzgerät oder auch ein Transveiver-Netzgerät beinhalten eine elektronische Spannungsregelung und eine Strombegrenzung. Die Abbildung [ref:a_vsource_schematic] zeigt ein Ersatzschaltbild einer Spannungsquelle.
 
-[photo:182:a_vsource_schematic:Ersatzschaltbild Spannungsquelle]
+[picture:1018:a_vsource_schematic:Ersatzschaltbild Spannungsquelle]
 
 Wird eine reale Spannungsquelle mit $R_L$ belastet, so sinkt die Klemmenspannung $U_k$. Grund dafür ist der vorhandene Innenwiderstand $R_i$ dieser Spannungsquelle. Da die Quellenspannung $U_q$ im Leerlauf, also ohne Belastung $U_q$=$U_L$ ist, nennt man diese auch Leerlaufspannung. Bleibt die Klemenspannung bei Belastung konstant, dann spricht man von Spannungsanpassung.
 

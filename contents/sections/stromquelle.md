@@ -1,9 +1,9 @@
 Ähnlich wie bei der Spannungsquelle, sorgt eine Stromquelle dafür, dass diese möglichst einen konstanten Strom liefert. Abbildung [ref:a_vsource_schematic] zeigt deren Ersatzschaltbild.
-% todo   picture:825:a_isource:Schaltzeichen Stromquelle wird zu groß dargestellt
+
 <margin>
- [photo:182:a_vsource_schematic:Ersatzschaltbild Stromquelle $R_i$ hochohmig]
+[picture:1058:a_vsource_schematic:Ersatzschaltbild Stromquelle $R_i$ hochohmig]
 </margin>
-% todo das Schaltzeichen wird eigentlich nicht benötigt und ist zu groß dargestellt. (Kommentar von DK1KC)
+
 
 Eine ideale Konstantstromquelle liefert unabhängig von der angeschlossenen Last einen konstanten Dauerstrom. In der Theorie ist dies bei einem unendlichen Innenwiderstand möglich. In der Praxis haben Stromquellen einen sehr hohen Innenwiderstand.
 
